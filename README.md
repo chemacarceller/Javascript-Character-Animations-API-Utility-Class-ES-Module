@@ -1,1 +1,1 @@
-# Javascript-Character-Animations-API-Utility-Class
+# Javascript-Character-Animations-API-Utility-Class-ES-Module
